@@ -31,4 +31,4 @@ ENDING='s'
 echo "you are going to write lots of ${WORD}${ENDING} in this class!"
 
 # test auto push
-# testing autopush
+echo "you are going to write lots of ${WORD}${ENDING} in this class!"
