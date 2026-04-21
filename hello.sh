@@ -42,3 +42,7 @@ echo "this is ${WORD}${ENDING}"
 echo '$WORD'
 
 echo "This is a shell ${WORD}"
+
+#!/bin/bash
+# test 1
+echo "Hello from test script"
