@@ -49,3 +49,6 @@ echo "Hello from test script"
 
 #!/bin/bash
 echo "Hello World"
+
+#!/bin/bash
+echo "Autopush is working!"
